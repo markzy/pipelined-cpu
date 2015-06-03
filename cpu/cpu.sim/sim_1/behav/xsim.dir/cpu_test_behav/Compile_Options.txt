@@ -1,0 +1,1 @@
+--debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "cpu_test_behav" --prj "G:/cpu/cpu.sim/sim_1/behav/cpu_test.prj" "xil_defaultlib.cpu_test" 

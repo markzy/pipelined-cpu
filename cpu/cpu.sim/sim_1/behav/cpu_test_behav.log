@@ -1,0 +1,106 @@
+Vivado Simulator 2014.2
+Time resolution is 1 ps
+Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__53  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__53  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__52  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__51  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__50  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/adder2/line__44  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/add.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/adder2/line__44  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/add.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/shift12/line__43  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/shift2.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/reg_file/line__57  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/Register.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/reg_file/line__57  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/Register.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/sign_extend/line__43  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/SignExtend.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/adder1/line__44  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/add.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__58  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__57  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__56  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__55  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 2  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 2  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__53  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__53  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__52  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__51  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/data_mem/line__50  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/DataMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/adder2/line__44  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/add.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/adder2/line__44  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/add.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/shift12/line__43  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/shift2.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/reg_file/line__57  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/Register.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/reg_file/line__57  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/Register.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/sign_extend/line__43  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/SignExtend.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/adder1/line__44  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/add.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__58  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__57  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__56  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 0  Process: /cpu_test/uut/instr_mem/line__55  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/InstruMem.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 1  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 2  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd
+Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Time: 0 ps  Iteration: 2  Process: /cpu_test/uut/ALU1/line__48  File: G:/cpu/cpu.srcs/sources_1/imports/sources_1/imports/new/ALU.vhd

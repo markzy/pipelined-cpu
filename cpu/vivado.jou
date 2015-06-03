@@ -1,0 +1,123 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:30:22 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Fri May 01 11:28:57 2015
+# Process ID: 12628
+# Log file: G:/cpu/vivado.log
+# Journal file: G:/cpu\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {G:\cpu\cpu.xpr}
+launch_xsim -simset sim_1 -mode behavioral
+close_sim
+launch_xsim -simset sim_1 -mode behavioral
+run all
+restart
+run 40 ns
+run 40 ns
+restart
+run 40 ns
+launch_xsim -simset sim_1 -mode behavioral
+restart
+run 40 ns
+add_wave {{/cpu_test/uut/muxPC/muxout}} 
+add_wave {{/cpu_test/uut/instr_fetch/pcf}} 
+add_wave {{/cpu_test/uut/instr_mem/A}} 
+add_wave {{/cpu_test/uut/instr_mem/InstruMem}} 
+add_wave {{/cpu_test/uut/instr_mem/RD}} 
+add_wave {{/cpu_test/uut/hazard/stopcount}} 
+add_wave {{/cpu_test/uut/reg_file/A1}} {{/cpu_test/uut/reg_file/A2}} 
+add_wave {{/cpu_test/uut/reg_file/RD1}} {{/cpu_test/uut/reg_file/RD2}} 
+add_wave {{/cpu_test/uut/ALU1/SrcA}} {{/cpu_test/uut/ALU1/SrcB}} 
+add_wave {{/cpu_test/uut/ALU1/ALUout}} 
+add_wave {{/cpu_test/uut/data_mem/A}} {{/cpu_test/uut/data_mem/RD}} 
+add_wave {{/cpu_test/uut/reg_file/A3}} 
+add_wave {{/cpu_test/uut/reg_file/WD3}} 
+save_wave_config {G:/cpu\cpu_test_behav.wcfg}
+restart
+run 40 ns
+add_wave {{/cpu_test/uut/iftoid/instr}} 
+restart
+run 40 ns
+run 40 ns
+restart
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+restart
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+save_wave_config {G:/cpu\cpu_test_behav.wcfg}
+launch_xsim -simset sim_1 -mode behavioral
+restart
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+restart
+launch_xsim -simset sim_1 -mode behavioral
+restart
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+restart
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+launch_xsim -simset sim_1 -mode behavioral
+restart
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+run 40 ns
+close_sim

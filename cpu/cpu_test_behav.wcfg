@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="cpu_test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="cpu_test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="17" />
+   <wvobject db_ref_id="1" fp_name="/cpu_test/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/instr_mem/A" type="array">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/instr_mem/RD" type="array">
+      <obj_property name="ElementShortName">RD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/iftoid/instr" type="array">
+      <obj_property name="ElementShortName">instr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/hazard/stopcount" type="array">
+      <obj_property name="ElementShortName">stopcount[1:0]</obj_property>
+      <obj_property name="ObjectShortName">stopcount[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/reg_file/A1" type="array">
+      <obj_property name="ElementShortName">A1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A1[4:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/reg_file/A2" type="array">
+      <obj_property name="ElementShortName">A2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A2[4:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/reg_file/RD1" type="array">
+      <obj_property name="ElementShortName">RD1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD1[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/reg_file/RD2" type="array">
+      <obj_property name="ElementShortName">RD2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD2[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/ALU1/SrcA" type="array">
+      <obj_property name="ElementShortName">SrcA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SrcA[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/ALU1/SrcB" type="array">
+      <obj_property name="ElementShortName">SrcB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SrcB[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/ALU1/ALUout" type="array">
+      <obj_property name="ElementShortName">ALUout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUout[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/data_mem/A" type="array">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/data_mem/RD" type="array">
+      <obj_property name="ElementShortName">RD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/reg_file/A3" type="array">
+      <obj_property name="ElementShortName">A3[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A3[4:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/cpu_test/uut/reg_file/WD3" type="array">
+      <obj_property name="ElementShortName">WD3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WD3[31:0]</obj_property>
+   </wvobject>
+</wave_config>
